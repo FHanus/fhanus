@@ -9,3 +9,6 @@ I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passio
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/filiphanus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+
+### ✍️ Blog Posts : 
+- [Coordinates Guidance System Project](https://www.linkedin.com/feed/update/urn:li:ugcPost:6872980658759843840?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6872980658759843840%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
