@@ -3,6 +3,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/hanusfilip/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/filiphanus" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
 
 <!--
 **FHanus/fhanus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
