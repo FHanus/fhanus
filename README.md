@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fhanus.fhanus&style=flat-square&color=0088cc)
 
-I'm an undergrad robotics student 🎓. I enjoy delivering original solutions to real-world problems and working on difficult projects from an idea to the end product 💡. I'm a part of a start-up called Tribonix, we are creating an affordable upper-body exoskeleton that provides comfort and independence to our users, the suit recovers 80% of human arm movements with 7 degrees of freedom 🔭. My focus is on embedded programming, PCB design and machine learning.
+I'm an undergrad robotics student 🎓. I enjoy delivering original solutions to real-world problems and working on difficult projects from an idea to the end product 💡. I'm a part of a start-up called Tribonix, we are creating an affordable upper-body exoskeleton that provides comfort and independence to our users. The suit recovers 80% of human arm movements with 7 degrees of freedom 🔭. My focus is on embedded programming, PCB design and machine learning.
 
 Like My Work?
 
