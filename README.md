@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fhanus.fhanus&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm an undergrad robotics student 🎓. I enjoy delivering original solutions to real-world problems and working on difficult projects from an idea to the end product 💡. I'm a part of a start-up Tribonix, we are creating an affordable upper-body exoskeleton that provides comfort and independence to our users, the suit recovers 80% of human arm movements with 7 degrees of freedom 🔭. My focus is on embedded programming, PCB design and machine learning.
 
 Like My Work?
 
