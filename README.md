@@ -1,7 +1,5 @@
 <h1 align="center">hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hanusfilip/)
-
 ### Glad to see you here! 
 
 Robotics student 🎓. I enjoy delivering original solutions to real-world problems and working on difficult projects from an idea to the end product 💡. I'm a co-founder of Tribonix, we are creating an affordable upper-body exoskeleton that provides comfort and independence to our users in the medical sector. My focus is on embedded programming, PCB design and machine vision.
